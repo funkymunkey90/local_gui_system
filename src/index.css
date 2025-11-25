@@ -1,0 +1,38 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    font-size: 1rem;
+    background: #222;
+    color: darkgrey;
+    border: 1px solid red;
+}
+
+button {
+    padding: 0em 1em 0em 1em;
+
+}
+
+.panel-search-basic {
+    display: flex;
+    border: 1px solid blue;
+    gap: 1em;
+}
+.panel-search-basic input {
+    flex: 1;
+}
+
+
+.panel_basic_results {
+    border: 1px solid green;
+}

@@ -1,0 +1,8 @@
+[paths]
+
+folder_data = "{main_root}\\data"
+folder_logs = "{main_root}\\data\\logs"
+folder_storage = "{main_root}\\data\\raw_files"
+folder_database = "{main_root}\\data"
+
+database_global_name = "global_data.db"

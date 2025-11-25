@@ -1,0 +1,7 @@
+*.log
+backend/data/logs/**
+backend/data/raw_files/**
+backend/settings/Key*
+.venv/**
+node_modules/**
+**/__pycache__/**
